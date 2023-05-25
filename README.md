@@ -1,2 +1,2 @@
 # Trabalho
-repositório do primeiro trabalho sobre git e github.
+repositório do primeiro trabalho sobre Git e GitHub.
